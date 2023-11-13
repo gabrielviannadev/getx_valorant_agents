@@ -1,10 +1,9 @@
 # Valorant Agents | GetX Flutter
 
 Consuming API to list the Valorant agents, and a details page for each one, using GetX to state management.
+![Black and Red Modern Black Friday Sale Outdoor Banner](https://github.com/gabrielviannadev/getx_valorant_agents/assets/61065553/3ef13dc0-b31e-4b2f-bf0f-83092cdc04cc)
 
 ## Getting Started
-
-![Black and Red Modern Black Friday Sale Outdoor Banner](https://github.com/gabrielviannadev/getx_valorant_agents/assets/61065553/3ef13dc0-b31e-4b2f-bf0f-83092cdc04cc)
 
 This project is a starting point for a Flutter application.
 
