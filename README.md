@@ -1,6 +1,6 @@
-# getx_test
+# Valorant Agents| GetX Flutter
 
-A new Flutter project.
+Consuming API to list the Valorant agents, and a details page for each one, using GetX to state management.
 
 ## Getting Started
 
