@@ -1,4 +1,4 @@
-# Valorant Agents| GetX Flutter
+# Valorant Agents | GetX Flutter
 
 Consuming API to list the Valorant agents, and a details page for each one, using GetX to state management.
 
